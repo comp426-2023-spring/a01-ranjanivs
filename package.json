@@ -1,0 +1,19 @@
+{
+  "name": "little-webserver",
+  "version": "1.0.0",
+  "description": "web server for assignment 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-ranjanivs.git"
+  },
+  "author": "@ranjanivs",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-ranjanivs/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-ranjanivs#readme"
+}
